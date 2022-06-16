@@ -1,6 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;
-
-500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
 * {
   margin: 0;
@@ -2890,24 +2888,24 @@ h6 {
   }
 }
 
-.webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 400px 135px; }
+.header__content{ background: url(../img/header/female-student.png) no-repeat 400px 135px; }
 
 @media (max-width: 991.98px){
-  .webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 240px 135px; }
+  .header__content{ background: url(../img/header/female-student.png) no-repeat 240px 135px; }
 }
 
 @media (max-width: 740px){
-  .webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 155% 135px; }
+  .header__content{ background: url(../img/header/female-student.png) no-repeat 155% 135px; }
 }
 
 @media (max-width: 590px){
-  .webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 155% 135px; }
+   .header__content{ background: url(../img/header/female-student.png) no-repeat 155% 135px; }
 }
 
 @media (max-width: 500px){
-  .webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 135% 175px; }
+   .header__content{ background: url(../img/header/female-student.png) no-repeat 135% 175px; }
 }
 
 @media (max-width: 390px){
-  .webp .header__content{ background: url(../img/header/female-student.webp) no-repeat 145% 86px; }
+   .header__content{ background: url(../img/header/female-student.png) no-repeat 145% 86px; }
 }
